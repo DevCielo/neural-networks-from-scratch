@@ -1,4 +1,7 @@
-A fun project to learn neural networks where I reimplement popular neural networks from their research papers using tensorflow and then from scratch using numpy.
+Welcome to my Neural Network Implementations repository! This project aims to provide a comprehensive understanding of popular neural network architectures by reimplementing them from their original research papers. The implementations are done in two stages: first using TensorFlow for a higher-level, efficient approach, and then from scratch using NumPy to grasp the core mathematical operations behind the networks.
 
-Currently have:
-- LeNet-5 (Tensorflow implemented): http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf
+Current Implementations:
+
+1. LeNet-5 (Tensorflow only)
+Paper: Gradient-Based Learning Applied to Document Recognition by Yann LeCun, Léon Bottou, Yoshua Bengio, and Patrick Haffner.
+http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf
