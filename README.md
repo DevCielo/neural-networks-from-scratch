@@ -29,5 +29,5 @@ Throughout this project, I have learned:
 
 ## Current Implementations
 
-### LeNet-5 (TensorFlow Only)
+### LeNet-5
 Original Paper: Gradient-Based Learning Applied to Document Recognition by Yann LeCun, Léon Bottou, Yoshua Bengio, and Patrick Haffner.
