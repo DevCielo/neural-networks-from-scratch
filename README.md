@@ -31,3 +31,15 @@ Throughout this project, I have learned:
 
 ### LeNet-5
 Original Paper: Gradient-Based Learning Applied to Document Recognition by Yann LeCun, Léon Bottou, Yoshua Bengio, and Patrick Haffner.
+
+## Future Implementations
+1. AlexNet
+2. VGG-16/19
+3. ResNet
+4. Inception
+5. DenseNet
+6. U-Net
+7. Transformer
+8. Vision Transformer
+9. GAN
+10. BERT
